@@ -1,2 +1,2 @@
 # webcal
-The start of a web calendar
+The start of a PHP web calendar
