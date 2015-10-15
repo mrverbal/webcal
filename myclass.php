@@ -2,7 +2,7 @@ class Mycal
 {
   // The start of a web calendar in PHP
   // todo:  add some handy unit tests
-  // First commit on Wed 2015-10-14
+  // 2015-10-14 Wednesday. First commit
   //
   public static function first_day_of( $month, $year)
   {
