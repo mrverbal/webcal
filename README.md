@@ -7,4 +7,4 @@ Features to be included
 - Create, update and delete events
 - Choose a color for individual events
 - Multi-day events
-- Events are stored in text-file. No database required
+- Events are stored in a text-file. No database required
