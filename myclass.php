@@ -6,7 +6,15 @@ class Mycal
   //
   public static function first_day_of( $month, $year)
   {
-    /*
+    /* 
+    root@laravel5:~/.composer/laravel# php artisan tinker
+    Psy Shell v0.5.1 (PHP 5.5.9-1ubuntu4.11 — cli) by Justin Hileman
+    >>> require_once  "myclass.php";
+    => 1
+    >>> Mycal::days_in_month(3,2008);
+    => 31
+   */
+
     >>> Mycal::first_day_of(10,2015);
     => "Thu"
     >>> Mycal::first_day_of(7,1974);
