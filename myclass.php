@@ -13,8 +13,7 @@ class Mycal
     => 1
     >>> Mycal::days_in_month(3,2008);
     => 31
-   */
-
+  
     >>> Mycal::first_day_of(10,2015);
     => "Thu"
     >>> Mycal::first_day_of(7,1974);
