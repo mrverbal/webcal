@@ -1,3 +1,4 @@
+<?php
 class Mycal
 {
   // The start of a web calendar in PHP
