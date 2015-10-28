@@ -1,6 +1,7 @@
 <?php
 /*   myclass.php
      ~/.composer/laravel# php artisan tinker
+
      require_once "myclass.php";
   
   public static function first_day_of( $month , $year)
